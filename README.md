@@ -1,4 +1,4 @@
-# Hi, I'm Jay Prakash Yadav 👋
+# Hi, I'm Jay Prakash Yadav 
 
 Full-Stack Developer | MERN Stack | LeetCode Knight (1956)
 
