@@ -29,5 +29,5 @@ Building scalable applications and solving algorithmic problems daily.
 ---
 
 ## 📫 Contact
-LinkedIn: https://linkedin.com/in/jay-prakash-yadav  
+LinkedIn: https://www.linkedin.com/in/jay-prakash-yadav-957928344/ 
 Email: spydavansi423@gmail.com
